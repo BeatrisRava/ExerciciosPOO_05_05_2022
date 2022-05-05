@@ -1,4 +1,4 @@
-public class Ex2TesteImpressora {
+public class Ex02TesteImpressora {
      
     public static void main(String[] args) {
         
