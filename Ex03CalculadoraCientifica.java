@@ -12,15 +12,15 @@ public class Ex03CalculadoraCientifica {
         return Math.sqrt(Double.parseDouble(string1));
     }
 
-    public double potência(Byte num1, Byte num2){
+    public double potencia(Byte num1, Byte num2){
         return Math.pow(num1, num2);
     }
 
-    public double potência(String string1, String string2){
-        return Math.pow(Double.parseDouble(string1), Double.parseDouble(string1));
+    public double potencia(String string1, String string2){
+        return Math.pow(Double.parseDouble(string1), Double.parseDouble(string2));
     }
 
-    public double potência(int num1, double num2){
+    public double potencia(int num1, double num2){
         return Math.pow(num1, num2);
     }
 

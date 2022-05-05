@@ -12,4 +12,4 @@ public class Ex04TesteCalculadoraCientifica {
            System.out.println(Calcular.potencia(7,14f));
         }
     }
-}
+
